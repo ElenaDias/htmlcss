@@ -1,0 +1,81 @@
+
+nav {
+    background-color:#0db4bd;
+}
+
+
+a:hover {
+    background-color:#30eef8;
+}
+
+.carousel-item{
+    margin: 30px 0px 30px 0;
+}
+
+.carousel-item img {
+    width: 100%;
+    height: 400px;
+    margin: auto;
+}
+
+.title{
+   width: 70%;
+   margin: auto;
+
+   margin-bottom: 50px;
+}
+
+
+section:nth-child(2){
+    background-color: rgb(227, 227, 227);
+  
+}
+
+
+.card-body{
+
+    min-height: 85px;
+}
+
+div i{
+    color: lightseagreen;
+}
+
+
+section:nth-child(3) {
+    background-color: rgb(49, 193, 186);
+    min-height: 250px;
+  
+}
+
+[type=button]:not(:disabled), [type=reset]:not(:disabled), [type=submit]:not(:disabled), button:not(:disabled) {
+    background-color: transparent;
+    width: 200px;
+    color: white;
+    text-transform: uppercase;
+}
+
+
+section:nth-child(4){
+    min-height: 300px;
+    border-top: 10px solid rgba(212, 212, 212, 0.224);
+}
+
+.upper-bott-bordo{
+    
+    padding: 10px;
+    border-top: 3px solid rgb(49, 193, 186);
+    border-bottom: 3px solid rgb(49, 193, 186);
+}
+
+
+
+footer{
+    background-color: rgb(234, 234, 234);
+    min-height: 150px;
+    padding-top: 100px;
+}
+
+footer div{
+    border-top: 1px solid rgba(90, 85, 85, 0.546);
+}
